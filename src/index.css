@@ -1,0 +1,15 @@
+/* @font-face {
+    font-family: iryekan;
+    src: url("./Components/Product/ASSEST/fonts/IRYekan.woff");
+} */
+
+*{
+    padding: 0;
+    margin: 0;
+    /* font-family:iryekan ; */
+    direction: rtl;
+    
+    
+}
+
+
